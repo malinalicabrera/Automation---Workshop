@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-workshop",
+  "version": "1.0.0",
+  "description": "Wizeline Assesment 1",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome ./page_model\test"
+  },
+  "author": "Malinali Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
