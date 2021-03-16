@@ -1,3 +1,8 @@
+/** 
+ * AUTHOR: MALINALI CABRERA
+ * WIZELINE ASSESMENT 1
+ * Test Script: 4 - Navigate to the Shopping Cart
+ * **/
 import LoginPage from '../pages/LoginPage'
 import ProductPage from '../pages/ProductPage'
 import {CREDENTIALS} from '../data/Constants'

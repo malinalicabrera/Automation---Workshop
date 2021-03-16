@@ -1,3 +1,8 @@
+/** 
+ * AUTHOR: MALINALI CABRERA
+ * WIZELINE ASSESMENT 1
+ * Test Script: 6 - Add Multiple Items to the Shopping Cart
+ * **/
 import LoginPage from '../pages/LoginPage'
 import ProductPage from '../pages/ProductPage'
 import {CREDENTIALS} from '../data/Constants'

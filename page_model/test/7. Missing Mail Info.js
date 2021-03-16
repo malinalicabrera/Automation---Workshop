@@ -1,3 +1,8 @@
+/** 
+ * AUTHOR: MALINALI CABRERA
+ * WIZELINE ASSESMENT 1
+ * Test Script: 7 - Continue with Missing Mail Information
+ * **/
 import LoginPage from '../pages/LoginPage'
 import ProductPage from '../pages/ProductPage'
 import CheckOutPage from '../pages/CheckOutPage'

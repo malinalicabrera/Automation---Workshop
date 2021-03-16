@@ -1,3 +1,8 @@
+/** 
+ * AUTHOR: MALINALI CABRERA
+ * WIZELINE ASSESMENT 1
+ * Test Script: 2 - User can not login using invalid credentials
+ * **/
 import LoginPage from '../pages/LoginPage'
 import ProductPage from '../pages/ProductPage'
 import {CREDENTIALS} from '../data/Constants'
